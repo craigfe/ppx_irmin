@@ -1,4 +1,6 @@
-# ppx_irmin
+# ppx_irmin (ARCHIVED)
+
+**This repository has been upstreamed to [mirage/irmin](https://github.com/mirage/irmin/tree/master/src/ppx_irmin).**
 
 PPX extension for automatically generating Irmin generics.
 
